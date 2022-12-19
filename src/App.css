@@ -63,3 +63,17 @@
     gap: 20px;
     overflow-x: auto;
 }
+
+.card--tag {
+    height: 30px;
+    width: 80px;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 4px;
+    position: absolute;
+    background-color: #FFFFFF;
+    font-weight: 700;
+    margin-left: 5px;
+    margin-top: 5px;
+}

@@ -1,6 +1,6 @@
 # react-practice-Airbnb-clone
 
-This project is a react practice to create a airbnb front page.
+This is a react practice to create a static airbnb front page. 
 
 ## Available Scripts
 
